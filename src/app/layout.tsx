@@ -21,7 +21,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="ko">
+    <html lang="ko" data-theme="dim">
       <body className={`${pretendard.className} antialiased`}>
         <MainLayout>{children}</MainLayout>
       </body>

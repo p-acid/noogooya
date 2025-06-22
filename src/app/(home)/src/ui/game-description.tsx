@@ -51,6 +51,10 @@ export function GameDescription() {
           </li>
         </ul>
       </ul>
+
+      <p className="text-zinc-500">
+        *2025년 06월 22일 기준으로 현역인 선수만 포함되어 있습니다.
+      </p>
     </div>
   );
 }

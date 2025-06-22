@@ -417,7 +417,7 @@ export const KBO_ROSTERS: BaseballPlayer[] = [
     birth: "Jul 15 1991",
   },
   {
-    name: "여통건",
+    name: "여동건",
     team: "두산 베어스",
     backNumber: "5",
     position: "2B",
@@ -4345,7 +4345,7 @@ export const KBO_ROSTERS: BaseballPlayer[] = [
     birth: "Apr 21 2004",
   },
   {
-    name: "소리현",
+    name: "소이현",
     team: "NC 다이노스",
     backNumber: "50",
     position: "RP",
@@ -4425,7 +4425,7 @@ export const KBO_ROSTERS: BaseballPlayer[] = [
     birth: "Jun 24 2000",
   },
   {
-    name: "매튜 데이비슨",
+    name: "맷 데이비슨",
     team: "NC 다이노스",
     backNumber: "24",
     position: "1B",
@@ -4599,6 +4599,14 @@ export const KBO_ROSTERS: BaseballPlayer[] = [
     position: "OF",
     hand: "LHH",
     birth: "Jul 16 1997",
+  },
+  {
+    name: "손아섭",
+    team: "NC 다이노스",
+    backNumber: "31",
+    position: "RF",
+    hand: "LHH",
+    birth: "Mar 18 1988",
   },
   {
     name: "송승환",
