@@ -4129,7 +4129,7 @@ export const KBO_ROSTERS: BaseballPlayer[] = [
     birth: "Mar 31 2005",
   },
   {
-    name: "천사민",
+    name: "전사민",
     team: "NC 다이노스",
     backNumber: "57",
     position: "RP",
