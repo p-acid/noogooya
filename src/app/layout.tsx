@@ -11,7 +11,7 @@ const pretendard = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "누구야",
+  title: "누구야 : KBO 선수 추리 게임",
   description: "KBO 선수 중 누구인지 맞춰보세요!",
 };
 
